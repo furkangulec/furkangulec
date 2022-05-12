@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, C#, Flask, Web Design**
 
-- 💬 Ask me about **everything, if i don't know i want to learn your questions.**
+- 💬 Ask me about **anything, if i don't know i want to learn your questions.**
 
 - 📫 How to reach me **glcfrkn@outlook.com**
 
