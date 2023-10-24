@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **glcfrkn@outlook.com**
 
-- 📄 Know about my experiences [CV (Turkish)](https://github.com/furkangulec/furkangulec/blob/main/FurkanG%C3%BCle%C3%A7CV.pdf)
+- 📄 Know about my experiences [CV (Turkish)](https://github.com/furkangulec/furkangulec/blob/main/FurkanG%C3%BCle%C3%A7CV.pdf) [CV (English)](https://github.com/furkangulec/furkangulec/blob/main/FurkanG%C3%BCle%C3%A7CV-EN.pdf) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
