@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pallet Grid](https://www.palletgrid.com/)
 
-- 🌱 I’m currently learning **Python, C#, Flask, Web Design**
+- 🌱 I’m currently learning **PHP, Python, C#, Flask, Web Design**
 
 - 💬 You can ask me anything. If I don't know, **I'll be dying to find out.**
 
