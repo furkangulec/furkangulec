@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A curious developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Pallet Grid](https://www.palletgrid.com/)
+- 🔭 I’m currently working on [B2Geta](https://www.b2geta.com/)
 
 - 🌱 I’m currently learning **PHP, Python, C#, Flask, Web Design**
 
