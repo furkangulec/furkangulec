@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [B2Geta](https://www.b2geta.com/)
 
-- 🌱 I’m currently learning **PHP, Python, C#, Flask, Web Design**
+- 🌱 I’m currently learning ** .NET Core, PHP, Python, C#, Flask, Web Design**
 
 - 💬 You can ask me anything. If I don't know, **I'll be dying to find out.**
 
