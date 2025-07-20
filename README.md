@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Newsmeter](https://www.newsmeter.com/)
 
-- 🌱 I’m currently learning ** .NET Core, PHP, Python, C#, Flask, Web Design**
+- 🌱 I’m actively working with ** .NET Core, PHP, Python, C#, Flask, Web Design **
 
 - 💬 You can ask me anything. If I don't know, **I'll be dying to find out.**
 
